@@ -5,32 +5,38 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+at+scale+%F0%9F%A4%96;Creator+of+SNEPPX-Alg+%26+SNEAPX-Agents;17+%F0%9F%87%A9%F0%9F%87%B7+%E2%80%A2+Building+with+AI+%26+code;Always+learning%2C+always+shipping+%F0%9F%9A%80&fontColor=00f0ff&color=0d1117&center=true&width=600&height=45&background=0d1117&vCenter=true" alt="typing svg" />
   <br/>
-  <img src="https://visitcount.itsvg.in/api?id=ammar49-cyber&icon=3&color=00f0ff&preview=false" alt="visitor count"/>
+  <img src="https://komarev.com/ghpvc/?username=ammar49-cyber&label=Profile%20Views%20%F0%9F%91%80&color=00f0ff&style=flat-square" alt="visitor count"/>
 </div>
 
 ---
 
-### 📌 Pinned
+### 👾 About Me 🧑‍💻
+
+> **Ammar** · 🇵🇰 · `17` · building with AI & code 🚀
+> Currently learning, executing and shipping — always curious ✨
+> Author of **SNEPPX-Alg** 🤖, the universal open-source AI algorithm, and **SNEPPX-Agents** 🕵️, a roster of 230+ specialized AI agents.
+
+- 🧠 Deep into AI/ML systems, tensor engines & autonomous agents
+- ⚡ Comfortable across C / C++ / CUDA / Python / Rust / TypeScript
+- 🛠️ Building dev tooling, IDEs & languages under the SNEPPX & ARIX umbrella
+- 🌱 Always learning something new every single day
+- 📫 Reach me on GitHub — always happy to collaborate 🤝
+
+---
+
+### 📌 Pinned 📌
 
 <p align="center">
-  <a href="https://github.com/ammar49-cyber/sneppx-alg">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar49-cyber&repo=sneppx-alg&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00e6" alt="sneppx-alg"/>
-  </a>
-  <a href="https://github.com/ammar49-cyber/sneppx-agents">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar49-cyber&repo=sneppx-agents&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00e6" alt="sneppx-agents"/>
-  </a>
+  <a href="https://github.com/ammar49-cyber/sneppx-alg"><img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=sneppx-alg" alt="sneppx-alg stars"/></a>
+  <a href="https://github.com/ammar49-cyber/sneppx-agents"><img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-agents?style=for-the-badge&logo=github&logoColor=white&color=ff00e6&labelColor=0d1117&label=sneppx-agents" alt="sneppx-agents stars"/></a>
 </p>
 <p align="center">
-  <a href="https://github.com/ammar49-cyber/Arix-IDE">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar49-cyber&repo=Arix-IDE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00e6" alt="Arix-IDE"/>
-  </a>
-  <a href="https://github.com/ammar49-cyber/mytorch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar49-cyber&repo=mytorch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00e6" alt="mytorch"/>
-  </a>
+  <a href="https://github.com/ammar49-cyber/Arix-IDE"><img src="https://img.shields.io/github/stars/ammar49-cyber/Arix-IDE?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=Arix-IDE" alt="Arix-IDE stars"/></a>
+  <a href="https://github.com/ammar49-cyber/mytorch"><img src="https://img.shields.io/github/stars/ammar49-cyber/mytorch?style=for-the-badge&logo=github&logoColor=white&color=ff00e6&labelColor=0d1117&label=mytorch" alt="mytorch stars"/></a>
 </p>
 
 <p align="center">
-  <img src="https://progress-bar.dev/2/?title=sneppx--alg%20%E2%98%85%20%E2%86%92%201k%20(2%2F1000)&width=420&color=%2300f0ff" alt="star goal"/>
+  <img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Goal%3A%201000%20%E2%98%85%20on%20sneppx--alg-00f0ff?style=for-the-badge&labelColor=0d1117" alt="star goal"/>
 </p>
 
 <details>
@@ -42,20 +48,9 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 </details>
 
-### 👾 About Me
-
-> **Ammar** · 🇵🇰 · `17` · building with AI & code.
-> Currently learning, executing and shipping — always curious 🚀.
-> Author of **SNEPPX-Alg**, the universal open-source AI algorithm, and **SNEPPX-Agents**, a roster of 230+ specialized AI agents.
-
-- 🧠 Deep into AI/ML systems, tensor engines, and autonomous agents
-- ⚡ Comfortable across C / C++ / CUDA / Python / Rust / TypeScript
-- 🛠️ Building dev tooling, IDEs, and languages under the SNEPPX & ARIX umbrella
-- 📫 Reach me on GitHub — always happy to collaborate
-
 ---
 
-### 🧰 Tech Stack
+### 🧰 Tech Stack 🛠️
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-00f0ff?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117" alt="C"/>
@@ -72,11 +67,13 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats 📈
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ammar49-cyber&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&icon_color=ff00e6&text_color=c9d1d9&include_all_commits=true&count_private=true" alt="stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ammar49-cyber&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9" alt="top langs"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar49-cyber&theme=tokyonight" alt="profile details"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ammar49-cyber&theme=tokyonight" alt="repos per language"/>
 </p>
 
 <p align="center">
@@ -85,27 +82,35 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 ---
 
-### 🏆 Achievements & Trophies
+### 🏆 Achievements & Trophies 🏅
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammar49-cyber&theme=onestar&no-frame=true&no-bg=true&margin-w=6&column=4&title=1,2,3,4,5,6,7,8" alt="trophies"/>
+  <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Pull Shark"/>
+  <img src="https://img.shields.io/badge/Quickdraw-%F0%9F%8E%AF-ff00e6?style=for-the-badge&logo=github&labelColor=0d1117" alt="Quickdraw"/>
+  <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Starstruck"/>
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-%F0%9F%A7%A0-ff00e6?style=for-the-badge&logo=github&labelColor=0d1117" alt="Galaxy Brain"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-%F0%9F%A4%9D-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Pair Extraordinaire"/>
+  <img src="https://img.shields.io/badge/Public%20Sponsor-%F0%9F%92%96-ff00e6?style=for-the-badge&logo=github&labelColor=0d1117" alt="Public Sponsor"/>
+  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-%E2%9D%84%EF%B8%8F-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Arctic Code Vault"/>
 </p>
 
 <details>
 <summary><b>💡 How I'm leveling up these achievements</b></summary>
 
-- **Pull Shark** — keep merging real PRs across my repos
-- **Quickdraw** — close issues/PRs fast
-- **Pair Extraordinaire** — co-authored commits with collaborators
-- **Starstruck** — grow `sneppx-alg` past 1,000 ★
-- **Public Sponsor** — back open-source projects I depend on
-- **Galaxy Brain** — answer questions in GitHub Discussions
+- **🦈 Pull Shark** — keep merging real PRs across my repos
+- **🎯 Quickdraw** — close issues/PRs fast
+- **👯 Pair Extraordinaire** — co-authored commits with collaborators
+- **⭐ Starstruck** — grow `sneppx-alg` past 1,000 ★
+- **💖 Public Sponsor** — back open-source projects I depend on
+- **🧠 Galaxy Brain** — answer questions in GitHub Discussions
 
 </details>
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 Contribution Snake 🐲
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/ammar49-cyber/ammar49-cyber/output/github-contribution-grid-snake.svg" alt="snake"/>
@@ -114,7 +119,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 ---
 
-### ⭐ Star History — sneppx-alg
+### ⭐ Star History — sneppx-alg 🌟
 
 <p align="center">
   <a href="https://star-history.com/#ammar49-cyber/sneppx-alg&Date">
@@ -124,7 +129,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 ---
 
-### 🤝 Let's Connect
+### 🤝 Let's Connect 💬
 
 <p align="center">
   <a href="https://github.com/ammar49-cyber"><img src="https://img.shields.io/badge/GitHub-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
