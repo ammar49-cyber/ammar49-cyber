@@ -10,11 +10,37 @@
 
 ---
 
-<div align="center">
+### 📌 Pinned
+
+<p align="center">
   <a href="https://github.com/ammar49-cyber/sneppx-alg">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar49-cyber&repo=sneppx-alg&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00e6" alt="sneppx-alg"/>
   </a>
-</div>
+  <a href="https://github.com/ammar49-cyber/sneppx-agents">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar49-cyber&repo=sneppx-agents&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00e6" alt="sneppx-agents"/>
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/ammar49-cyber/Arix-IDE">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar49-cyber&repo=Arix-IDE&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00e6" alt="Arix-IDE"/>
+  </a>
+  <a href="https://github.com/ammar49-cyber/mytorch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=ammar49-cyber&repo=mytorch&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f0ff&text_color=c9d1d9&icon_color=ff00e6" alt="mytorch"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://progress-bar.dev/2/?title=sneppx--alg%20%E2%98%85%20%E2%86%92%201k%20(2%2F1000)&width=420&color=%2300f0ff" alt="star goal"/>
+</p>
+
+<details>
+<summary>🎧 Spotify Now Playing (enable in 2 steps)</summary>
+
+Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIENT_SECRET` to this repo's secrets and uncomment the line below:
+
+<!-- ![spotify](https://spotify-readme.app/api/now-playing) -->
+
+</details>
 
 ### 👾 About Me
 
@@ -94,6 +120,17 @@
   <a href="https://star-history.com/#ammar49-cyber/sneppx-alg&Date">
     <img src="https://api.star-history.com/svg?repos=ammar49-cyber/sneppx-alg&type=Date" alt="star history" width="600"/>
   </a>
+</p>
+
+---
+
+### 🤝 Let's Connect
+
+<p align="center">
+  <a href="https://github.com/ammar49-cyber"><img src="https://img.shields.io/badge/GitHub-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
+  <a href="https://github.com/ammar49-cyber?tab=followers"><img src="https://img.shields.io/badge/Follow-ff00e6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Follow"/></a>
+  <a href="https://github.com/ammar49-cyber/sneppx-alg/stargazers"><img src="https://img.shields.io/badge/Star%20sneppx--alg-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Star"/></a>
+  <a href="https://github.com/sponsors/ammar49-cyber"><img src="https://img.shields.io/badge/Sponsor-ff00e6?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" alt="Sponsor"/></a>
 </p>
 
 ---
