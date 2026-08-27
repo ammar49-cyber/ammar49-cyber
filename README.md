@@ -28,11 +28,6 @@
 
 <p align="center">
   <a href="https://github.com/ammar49-cyber/sneppx-alg"><img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=sneppx-alg" alt="sneppx-alg stars"/></a>
-  <a href="https://github.com/ammar49-cyber/sneppx-agents"><img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-agents?style=for-the-badge&logo=github&logoColor=white&color=ff00e6&labelColor=0d1117&label=sneppx-agents" alt="sneppx-agents stars"/></a>
-</p>
-<p align="center">
-  <a href="https://github.com/ammar49-cyber/Arix-IDE"><img src="https://img.shields.io/github/stars/ammar49-cyber/Arix-IDE?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=Arix-IDE" alt="Arix-IDE stars"/></a>
-  <a href="https://github.com/ammar49-cyber/mytorch"><img src="https://img.shields.io/github/stars/ammar49-cyber/mytorch?style=for-the-badge&logo=github&logoColor=white&color=ff00e6&labelColor=0d1117&label=mytorch" alt="mytorch stars"/></a>
 </p>
 
 <p align="center">
@@ -82,31 +77,27 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 ---
 
-### 🏆 Achievements & Trophies 🏅
+### 🏆 GitHub Achievements Earned 🏅
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pull%20Shark-%F0%9F%A6%88-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Pull Shark"/>
   <img src="https://img.shields.io/badge/Quickdraw-%F0%9F%8E%AF-ff00e6?style=for-the-badge&logo=github&labelColor=0d1117" alt="Quickdraw"/>
-  <img src="https://img.shields.io/badge/Starstruck-%E2%AD%90-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Starstruck"/>
-  <img src="https://img.shields.io/badge/Galaxy%20Brain-%F0%9F%A7%A0-ff00e6?style=for-the-badge&logo=github&labelColor=0d1117" alt="Galaxy Brain"/>
+  <img src="https://img.shields.io/badge/Galaxy%20Brain-%F0%9F%A7%A0-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Galaxy Brain"/>
 </p>
+
+> *I'm hunting these next: Starstruck ⭐, Pair Extraordinaire 👯, Arctic Code Vault ❄️, Public Sponsor 💖*
+
+---
+
+### 💖 Sponsors 💖
+
 <p align="center">
-  <img src="https://img.shields.io/badge/Pair%20Extraordinaire-%F0%9F%A4%9D-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Pair Extraordinaire"/>
-  <img src="https://img.shields.io/badge/Public%20Sponsor-%F0%9F%92%96-ff00e6?style=for-the-badge&logo=github&labelColor=0d1117" alt="Public Sponsor"/>
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault-%E2%9D%84%EF%B8%8F-00f0ff?style=for-the-badge&logo=github&labelColor=0d1117" alt="Arctic Code Vault"/>
+  <a href="https://github.com/sponsors/ammar49-cyber">
+    <img src="https://img.shields.io/badge/Sponsor%20Me-00f0ff?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" alt="Sponsor"/>
+  </a>
 </p>
 
-<details>
-<summary><b>💡 How I'm leveling up these achievements</b></summary>
-
-- **🦈 Pull Shark** — keep merging real PRs across my repos
-- **🎯 Quickdraw** — close issues/PRs fast
-- **👯 Pair Extraordinaire** — co-authored commits with collaborators
-- **⭐ Starstruck** — grow `sneppx-alg` past 1,000 ★
-- **💖 Public Sponsor** — back open-source projects I depend on
-- **🧠 Galaxy Brain** — answer questions in GitHub Discussions
-
-</details>
+*To earn the **Public Sponsor** achievement: Click the button above to sponsor one of the open-source projects you depend on.*
 
 ---
 
