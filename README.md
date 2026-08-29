@@ -8,7 +8,7 @@
   <img src="https://komarev.com/ghpvc/?username=ammar49-cyber&label=Profile%20Views%20%F0%9F%91%80&color=00f0ff&style=flat-square" alt="visitor count"/>
 </div>
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 👾 About Me 🧑‍💻
 
@@ -24,7 +24,7 @@
 
 > 🚀 **Now / Currently:** shipping **SNEPPX-Alg v1.1.1** (C HTTP REST API + security hardening), expanding **SNEAPX-Agents**, and going deep on distributed CUDA kernels & tensor-engine design.
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 🖥️ Terminal 💻
 
@@ -41,17 +41,25 @@
 └──────────────────────────────────────────────┘
 ```
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
-### 📌 Pinned 📌
+### 📌 Pinned & Featured 📌
 
 <p align="center">
   <a href="https://github.com/ammar49-cyber/sneppx-alg"><img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=sneppx-alg" alt="sneppx-alg stars"/></a>
   <a href="https://github.com/ammar49-cyber/sneppx-alg"><img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Goal%3A%201000%20%E2%98%85%20on%20sneppx--alg-00f0ff?style=for-the-badge&labelColor=0d1117" alt="star goal"/></a>
 </p>
 
+### 🚀 Featured Project — SNEPPX-Alg 🤖
+
+> A universal, open-source AI algorithm framework in C/C++ & CUDA — a 5-stage secure pipeline (HSS→SER→ARC→NPE→FM), 10 security layers (S0–S9), an LLM model zoo with `from_pretrained()`, distributed-training primitives, quantization, and a v1.1.1 C HTTP REST API.
+
 <p align="center">
-  <img src="https://img.shields.io/badge/SNEAPX--Agents-%F0%9F%95%B5%20230%2B%20AI%20agents-ff00e6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="SNEAPX-Agents"/>
+  <img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&labelColor=0d1117&color=00f0ff" alt="stars"/>
+  <img src="https://img.shields.io/github/forks/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&labelColor=0d1117&color=ff00e6" alt="forks"/>
+  <img src="https://img.shields.io/badge/license-MIT-00f0ff?style=for-the-badge&labelColor=0d1117" alt="license"/>
+  <img src="https://img.shields.io/badge/version-1.1.1-ff00e6?style=for-the-badge&labelColor=0d1117" alt="version"/>
+  <img src="https://img.shields.io/badge/SNEAPX--Agents-%F0%9F%95%B5%20230%2B%20AI%20agents-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="SNEAPX-Agents"/>
 </p>
 
 <details>
@@ -71,7 +79,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 </details>
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 🧰 Tech Stack 🛠️
 
@@ -88,7 +96,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
   <img src="https://img.shields.io/badge/AI%2FML-00f0ff?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" alt="AI/ML"/>
 </p>
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 📊 GitHub Stats 📈
 
@@ -115,7 +123,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar49-cyber&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&fire=ff00e6&ring=00f0ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=c9d1d9" alt="streak"/>
 </p>
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 🌐 3D Contribution Globe 🌍
 
@@ -125,7 +133,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
   </a>
 </p>
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 💖 Sponsors 💖
 
@@ -139,20 +147,20 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 <!-- /sponsors -->
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 💬 Latest Blog Posts 📝
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 💡 Quote of the Moment 🧠
 
 > "The best way to predict the future is to build it — one commit at a time." — *SNEPPX*
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 🐍 Contribution Snake 🐲
 
@@ -161,7 +169,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
   <img src="https://raw.githubusercontent.com/ammar49-cyber/ammar49-cyber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
 </p>
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### ⭐ Star History — sneppx-alg 🌟
 
@@ -171,7 +179,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
   </a>
 </p>
 
----
+![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 🤝 Let's Connect 💬
 
