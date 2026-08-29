@@ -77,28 +77,6 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 ---
 
-### 🏆 GitHub Achievements Hall of Fame 🏅
-
-| Achievement | Status | Goal / Strategy |
-| :--- | :---: | :--- |
-| **Pull Shark 🦈** | ✅ | Merged 88+ PRs across repos |
-| **Quickdraw 🎯** | ✅ | Closed 88+ issues rapidly |
-| **Galaxy Brain 🧠** | ✅ | Enabled & answered Discussions |
-| **Pair Extraordinaire 👯** | ✅ | Co-authored PR #11 |
-| **Git Guardian 🛡️** | ✅ | Security alerts enabled |
-| **Issue Analyst 🕵️** | ✅ | 88+ issues audited |
-| **CoC Guardian 📜** | ✅ | CoC applied to all repos |
-| **Topic Contributor 🏷️** | ✅ | Topics added to 88+ repos |
-| **Starstruck ⭐** | ⬜ | Drive `sneppx-alg` to 1,000★ |
-| **Public Sponsor 💖** | ⬜ | Click "Sponsor" below to support |
-| **YOLO 🚀** | ⬜ | Merge PR without review |
-| **Git Expert 🔧** | ⬜ | Refactor history/branching |
-| **Commit Streak 🔥** | ⬜ | Maintain 30-day contribution |
-| **OSS Evangelist 📣** | ⬜ | Reach 50+ project forks |
-| **Arctic Code Vault ❄️** | ⬜ | Archive/Code Vault contribution |
-
----
-
 ### 💖 Sponsors 💖
 
 <p align="center">
