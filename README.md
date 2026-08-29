@@ -22,16 +22,36 @@
 - 🌱 Always learning something new every single day
 - 📫 Reach me on GitHub — always happy to collaborate 🤝
 
+> 🚀 **Now / Currently:** shipping **SNEPPX-Alg v1.1.1** (C HTTP REST API + security hardening), expanding **SNEAPX-Agents**, and going deep on distributed CUDA kernels & tensor-engine design.
+
+---
+
+### 🖥️ Terminal 💻
+
+```text
+┌─ ammar49-cyber ──────────────────────────────┐
+│ $ whoami                                      │
+│   Ammar · 17 · 🇵🇰 AI systems builder         │
+│ $ stack                                       │
+│   C · C++ · CUDA · Python · Rust · TypeScript │
+│ $ now                                         │
+│   SNEPPX-Alg v1.1.1  +  SNEAPX-Agents (230+)  │
+│ $ goals                                        │
+│   1000★ sneppx-alg · OSS at scale 🌍           │
+└──────────────────────────────────────────────┘
+```
+
 ---
 
 ### 📌 Pinned 📌
 
 <p align="center">
   <a href="https://github.com/ammar49-cyber/sneppx-alg"><img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=sneppx-alg" alt="sneppx-alg stars"/></a>
+  <a href="https://github.com/ammar49-cyber/sneppx-alg"><img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Goal%3A%201000%20%E2%98%85%20on%20sneppx--alg-00f0ff?style=for-the-badge&labelColor=0d1117" alt="star goal"/></a>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Goal%3A%201000%20%E2%98%85%20on%20sneppx--alg-00f0ff?style=for-the-badge&labelColor=0d1117" alt="star goal"/>
+  <img src="https://img.shields.io/badge/SNEAPX--Agents-%F0%9F%95%B5%20230%2B%20AI%20agents-ff00e6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="SNEAPX-Agents"/>
 </p>
 
 <details>
@@ -40,6 +60,13 @@
 Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIENT_SECRET` to this repo's secrets and uncomment the line below:
 
 <!-- ![spotify](https://spotify-readme.app/api/now-playing) -->
+
+</details>
+
+<details>
+<summary>⏱️ WakaTime Coding Stats (enable in 1 step)</summary>
+
+Add a `WAKATIME_API_KEY` secret to this repo, then enable the WakaTime workflow. Until then this section stays collapsed.
 
 </details>
 
@@ -69,10 +96,32 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 </p>
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ammar49-cyber&theme=tokyonight" alt="repos per language"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ammar49-cyber&theme=tokyonight" alt="most commit language"/>
+</p>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-active-language?username=ammar49-cyber&theme=tokyonight" alt="most active language"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammar49-cyber&theme=tokyonight&bg_color=0d1117&color=00f0ff&line=ff00e6&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ammar49-cyber&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="trophies"/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar49-cyber&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&fire=ff00e6&ring=00f0ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=c9d1d9" alt="streak"/>
+</p>
+
+---
+
+### 🌐 3D Contribution Globe 🌍
+
+<p align="center">
+  <a href="https://github.com/ammar49-cyber/ammar49-cyber/blob/main/profile-3d-contrib/profile-night-view.svg">
+    <img src="https://raw.githubusercontent.com/ammar49-cyber/ammar49-cyber/main/profile-3d-contrib/profile-night-view.svg" alt="3d globe"/>
+  </a>
 </p>
 
 ---
@@ -85,7 +134,22 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
   </a>
 </p>
 
-*To earn the **Public Sponsor** achievement: Click the button above to sponsor one of the open-source projects you depend on.*
+<!-- sponsors -->
+
+<!-- /sponsors -->
+
+---
+
+### 💬 Latest Blog Posts 📝
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+---
+
+### 💡 Quote of the Moment 🧠
+
+> "The best way to predict the future is to build it — one commit at a time." — *SNEPPX*
 
 ---
 
@@ -115,6 +179,8 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
   <a href="https://github.com/ammar49-cyber?tab=followers"><img src="https://img.shields.io/badge/Follow-ff00e6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Follow"/></a>
   <a href="https://github.com/ammar49-cyber/sneppx-alg/stargazers"><img src="https://img.shields.io/badge/Star%20sneppx--alg-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Star"/></a>
   <a href="https://github.com/sponsors/ammar49-cyber"><img src="https://img.shields.io/badge/Sponsor-ff00e6?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" alt="Sponsor"/></a>
+  <a href="https://twitter.com/ammar49-cyber"><img src="https://img.shields.io/badge/Twitter-00f0ff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" alt="Twitter"/></a>
+  <a href="https://www.linkedin.com/in/ammar49-cyber"><img src="https://img.shields.io/badge/LinkedIn-ff00e6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
 </p>
 
 ---
