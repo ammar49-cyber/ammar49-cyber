@@ -62,23 +62,6 @@
   <img src="https://img.shields.io/badge/SNEAPX--Agents-%F0%9F%95%B5%20230%2B%20AI%20agents-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="SNEAPX-Agents"/>
 </p>
 
-<details>
-<summary>🎧 Spotify Now Playing (enable in 2 steps)</summary>
-
-Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIENT_SECRET` to this repo's secrets and uncomment the line below:
-
-<!-- ![spotify](https://spotify-readme.app/api/now-playing) -->
-
-</details>
-
-<details>
-<summary>⏱️ WakaTime Coding Stats</summary>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-</details>
-
 ![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 🧰 Tech Stack 🛠️
@@ -145,11 +128,6 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 
 ![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
-### 💬 Latest Blog Posts 📝
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 ![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
 
 ### 💡 Quote of the Moment 🧠
@@ -184,8 +162,6 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
   <a href="https://github.com/ammar49-cyber?tab=followers"><img src="https://img.shields.io/badge/Follow-ff00e6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Follow"/></a>
   <a href="https://github.com/ammar49-cyber/sneppx-alg/stargazers"><img src="https://img.shields.io/badge/Star%20sneppx--alg-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Star"/></a>
   <a href="https://github.com/sponsors/ammar49-cyber"><img src="https://img.shields.io/badge/Sponsor-ff00e6?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" alt="Sponsor"/></a>
-  <a href="https://twitter.com/ammar49-cyber"><img src="https://img.shields.io/badge/Twitter-00f0ff?style=for-the-badge&logo=twitter&logoColor=white&labelColor=0d1117" alt="Twitter"/></a>
-  <a href="https://www.linkedin.com/in/ammar49-cyber"><img src="https://img.shields.io/badge/LinkedIn-ff00e6?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117" alt="LinkedIn"/></a>
 </p>
 
 ---
