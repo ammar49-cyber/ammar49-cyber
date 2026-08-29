@@ -64,9 +64,10 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 </details>
 
 <details>
-<summary>⏱️ WakaTime Coding Stats (enable in 1 step)</summary>
+<summary>⏱️ WakaTime Coding Stats</summary>
 
-Add a `WAKATIME_API_KEY` secret to this repo, then enable the WakaTime workflow. Until then this section stays collapsed.
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 </details>
 
