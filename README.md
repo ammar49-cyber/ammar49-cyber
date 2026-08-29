@@ -112,11 +112,7 @@ Deploy a `spotify-readme` app, then add `SPOTIFY_CLIENT_ID` &amp; `SPOTIFY_CLIEN
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ammar49-cyber&theme=tokyonight&bg_color=0d1117&color=00f0ff&line=ff00e6&point=ffffff&area=true&hide_border=true" alt="activity graph"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ammar49-cyber&theme=tokyonight&column=4&margin-w=15&margin-h=15&no-frame=true" alt="trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ammar49-cyber&theme=tokyonight" alt="productive time"/>
 </p>
 
 <p align="center">
