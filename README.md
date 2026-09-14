@@ -46,8 +46,8 @@
 ### 📌 Pinned & Featured 📌
 
 <p align="center">
-  <a href="https://github.com/ammar49-cyber/sneppx-alg"><img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=sneppx-alg" alt="sneppx-alg stars"/></a>
-  <a href="https://github.com/ammar49-cyber/sneppx-alg"><img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Goal%3A%201000%20%E2%98%85%20on%20sneppx--alg-00f0ff?style=for-the-badge&labelColor=0d1117" alt="star goal"/></a>
+  <a href="https://github.com/SneppX/sneppx-alg"><img src="https://img.shields.io/github/stars/SneppX/sneppx-alg?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=sneppx-alg" alt="sneppx-alg stars"/></a>
+  <a href="https://github.com/SneppX/sneppx-alg"><img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Goal%3A%201000%20%E2%98%85%20on%20sneppx--alg-00f0ff?style=for-the-badge&labelColor=0d1117" alt="star goal"/></a>
 </p>
 
 ### 🚀 Featured Project — SNEPPX-Alg 🤖
