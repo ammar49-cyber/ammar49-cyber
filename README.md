@@ -12,7 +12,7 @@
 
 ### 👾 About Me 🧑‍💻
 
-> **Ammar** · 🇵🇰 · `17` · building with AI & code 🚀
+> **Ammar** · 🇵🇰 · `18` · building with AI & code 🚀
 > Currently learning, executing and shipping — always curious ✨
 > Author of **SNEPPX-Alg** 🤖, the universal open-source AI algorithm, and **SNEPPX-Agents** 🕵️, a roster of 230+ specialized AI agents.
 
@@ -31,7 +31,7 @@
 ```text
 ┌─ ammar49-cyber ──────────────────────────────┐
 │ $ whoami                                      │
-│   Ammar · 17 · 🇵🇰 AI systems builder         │
+│   Ammar · 18 · 🇵🇰 AI systems builder         │
 │ $ stack                                       │
 │   C · C++ · CUDA · Python · Rust · TypeScript │
 │ $ now                                         │
