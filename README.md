@@ -72,3 +72,16 @@ GitHub is the best place to reach me. For project questions, bug reports, techni
 *Build with curiosity. Engineer with care. Improve continuously.*
 
 </div>
+
+## Selected merged contributions
+
+A few examples of engineering work merged into public repositories:
+
+- [Harden inference serving and make CI failures visible](https://github.com/SneppX/sneppx-alg/pull/22) — inference-serving hardening and clearer CI failure reporting.
+- [Correct website catalog links, PWA paths, and accessibility](https://github.com/SneppX/sneppxov/pull/1) — catalog validation, project-site paths, and accessible navigation.
+- [Enforce lint and run organization repository tests](https://github.com/SneppX/.github/pull/1) — organization-level lint and test automation.
+- [Add deterministic RNG utilities](https://github.com/SneppX/sneppx-alg/pull/10) — reproducible random-number utilities.
+- [Add contributor documentation](https://github.com/SneppX/sneppx-alg/pull/11) — contributor onboarding documentation.
+- [Add CODEOWNERS](https://github.com/SneppX/sneppx-alg/pull/8) — automatic review ownership configuration.
+
+These links point to merged pull requests; they are examples, not a complete contribution history.
