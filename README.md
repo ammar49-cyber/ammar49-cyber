@@ -1,173 +1,91 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00e6&height=220&section=header&text=ammar49-cyber&fontSize=90&fontAlignY=38&animation=twinkling&fontColor=ffffff" alt="animated header"/>
-</div>
+<!--
+  Profile README for @ammar49-cyber
+  Keep project descriptions and technology claims aligned with the actual repositories.
+-->
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Building+AI+at+scale+%F0%9F%A4%96;Creator+of+SNEPPX-Alg+%26+SNEAPX-Agents;17+%F0%9F%87%A9%F0%9F%87%B7+%E2%80%A2+Building+with+AI+%26+code;Always+learning%2C+always+shipping+%F0%9F%9A%80&fontColor=00f0ff&color=0d1117&center=true&width=600&height=45&background=0d1117&vCenter=true" alt="typing svg" />
-  <br/>
-  <img src="https://komarev.com/ghpvc/?username=ammar49-cyber&label=Profile%20Views%20%F0%9F%91%80&color=00f0ff&style=flat-square" alt="visitor count"/>
+
+# Ammar
+
+### Software Developer · Independent Builder · Lifelong Learner
+
+I build software, explore how systems work, and turn ideas into practical projects.
+
+[![GitHub](https://img.shields.io/badge/GitHub-ammar49--cyber-181717?style=flat-square&logo=github)](https://github.com/ammar49-cyber)
+[![Organization](https://img.shields.io/badge/Building_with-SneppX-635BFF?style=flat-square)](https://github.com/SneppX)
+
 </div>
 
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
+---
 
-### 👾 About Me 🧑‍💻
+## About
 
-> **Ammar** · 🇵🇰 · `18` · building with AI & code 🚀
-> Currently learning, executing and shipping — always curious ✨
-> Author of **SNEPPX-Alg** 🤖, the universal open-source AI algorithm, and **SNEPPX-Agents** 🕵️, a roster of 230+ specialized AI agents.
+I'm an independent developer interested in building useful software and understanding the engineering behind it. I enjoy working across the stack, from low-level systems and native code to developer tools, desktop applications, and AI-related software.
 
-- 🧠 Deep into AI/ML systems, tensor engines & autonomous agents
-- ⚡ Comfortable across C / C++ / CUDA / Python / Rust / TypeScript
-- 🛠️ Building dev tooling, IDEs & languages under the SNEPPX & ARIX umbrella
-- 🌱 Always learning something new every single day
-- 📫 Reach me on GitHub — always happy to collaborate 🤝
+My approach is simple: learn the fundamentals, build real things, test them carefully, and improve them over time.
 
-> 🚀 **Now / Currently:** shipping **SNEPPX-Alg v1.1.1** (C HTTP REST API + security hardening), expanding **SNEAPX-Agents**, and going deep on distributed CUDA kernels & tensor-engine design.
+- **Building:** software projects and developer tools under the SneppX umbrella.
+- **Exploring:** systems programming, AI/ML, automation, and application architecture.
+- **Learning:** by reading source code, experimenting, documenting, and shipping.
+- **Open to:** thoughtful collaboration, useful feedback, and meaningful open-source work.
 
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
+## Featured work
 
-### 🖥️ Terminal 💻
+### [SneppX-Alg](https://github.com/SneppX/sneppx-alg)
 
-```text
-┌─ ammar49-cyber ──────────────────────────────┐
-│ $ whoami                                      │
-│   Ammar · 18 · 🇵🇰 AI systems builder         │
-│ $ stack                                       │
-│   C · C++ · CUDA · Python · Rust · TypeScript │
-│ $ now                                         │
-│   SNEPPX-Alg v1.1.1  +  SNEAPX-Agents (230+)  │
-│ $ goals                                        │
-│   1000★ sneppx-alg · OSS at scale 🌍           │
-└──────────────────────────────────────────────┘
-```
+An open-source AI algorithm framework maintained by the SneppX organization. The project explores a native C/C++ and CUDA foundation, tensor and automatic-differentiation components, model architectures, quantization, distributed-training primitives, and security-focused design.
 
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
+[Repository](https://github.com/SneppX/sneppx-alg) · [Issues](https://github.com/SneppX/sneppx-alg/issues) · [Discussions](https://github.com/SneppX/sneppx-alg/discussions)
 
-### 📌 Pinned & Featured 📌
+### [SneppX Studio](https://github.com/ammar49-cyber/SneppX-Studio)
 
-<p align="center">
-  <a href="https://github.com/SneppX/sneppx-alg"><img src="https://img.shields.io/github/stars/SneppX/sneppx-alg?style=for-the-badge&logo=github&logoColor=white&color=00f0ff&labelColor=0d1117&label=sneppx-alg" alt="sneppx-alg stars"/></a>
-  <a href="https://github.com/SneppX/sneppx-alg"><img src="https://img.shields.io/badge/%F0%9F%8C%9F%20Goal%3A%201000%20%E2%98%85%20on%20sneppx--alg-00f0ff?style=for-the-badge&labelColor=0d1117" alt="star goal"/></a>
-</p>
+A development environment project focused on creating a capable desktop coding experience. The repository is under active development.
 
-### 🚀 Featured Project — SNEPPX-Alg 🤖
+[Explore the repository](https://github.com/ammar49-cyber/SneppX-Studio)
 
-> A universal, open-source AI algorithm framework in C/C++ & CUDA — a 5-stage secure pipeline (HSS→SER→ARC→NPE→FM), 10 security layers (S0–S9), an LLM model zoo with `from_pretrained()`, distributed-training primitives, quantization, and a v1.1.1 C HTTP REST API.
+### [Spinux](https://github.com/ammar49-cyber/Spinux)
 
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&labelColor=0d1117&color=00f0ff" alt="stars"/>
-  <img src="https://img.shields.io/github/forks/ammar49-cyber/sneppx-alg?style=for-the-badge&logo=github&labelColor=0d1117&color=ff00e6" alt="forks"/>
-  <img src="https://img.shields.io/badge/license-MIT-00f0ff?style=for-the-badge&labelColor=0d1117" alt="license"/>
-  <img src="https://img.shields.io/badge/version-1.1.1-ff00e6?style=for-the-badge&labelColor=0d1117" alt="version"/>
-  <img src="https://img.shields.io/badge/SNEAPX--Agents-%F0%9F%95%B5%20230%2B%20AI%20agents-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="SNEAPX-Agents"/>
-</p>
+A software project in my public GitHub portfolio.
 
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
+[Explore the repository](https://github.com/ammar49-cyber/Spinux)
 
-### 🧰 Tech Stack 🛠️
+## Technical interests
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-00f0ff?style=for-the-badge&logo=c&logoColor=white&labelColor=0d1117" alt="C"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-00f0ff?style=for-the-badge&logo=cpp&logoColor=white&labelColor=0d1117" alt="C++"/>
-  <img src="https://img.shields.io/badge/CUDA-ff00e6?style=for-the-badge&logo=nvidia&logoColor=white&labelColor=0d1117" alt="CUDA"/>
-  <img src="https://img.shields.io/badge/Python-00f0ff?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117" alt="Python"/>
-  <img src="https://img.shields.io/badge/Rust-ff00e6?style=for-the-badge&logo=rust&logoColor=white&labelColor=0d1117" alt="Rust"/>
-  <img src="https://img.shields.io/badge/TypeScript-00f0ff?style=for-the-badge&logo=typescript&logoColor=white&labelColor=0d1117" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-ff00e6?style=for-the-badge&logo=react&logoColor=white&labelColor=0d1117" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-00f0ff?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1117" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Linux-ff00e6?style=for-the-badge&logo=linux&logoColor=white&labelColor=0d1117" alt="Linux"/>
-  <img src="https://img.shields.io/badge/AI%2FML-00f0ff?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=0d1117" alt="AI/ML"/>
-</p>
+These are areas I actively explore and build with:
 
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
+- **Languages:** C, C++, Python, TypeScript, JavaScript, and Rust
+- **Systems:** native software, operating-system concepts, performance, and tooling
+- **AI / ML:** tensor computation, model architectures, and autonomous systems
+- **Application development:** desktop software, web applications, and automation
+- **Engineering workflow:** Git, GitHub, testing, documentation, and maintainable architecture
 
-### 📊 GitHub Stats 📈
+## GitHub activity
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ammar49-cyber&theme=tokyonight" alt="profile details"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ammar49-cyber&theme=tokyonight" alt="repos per language"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ammar49-cyber&theme=tokyonight" alt="most commit language"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-active-language?username=ammar49-cyber&theme=tokyonight" alt="most active language"/>
-</p>
+I use GitHub to document my work, maintain projects, learn in public, and collaborate with other developers.
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ammar49-cyber&theme=tokyonight" alt="productive time"/>
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ammar49-cyber&theme=tokyonight&hide_border=true&background=0d1117&stroke=00f0ff&fire=ff00e6&ring=00f0ff&currStreakLabel=00f0ff&sideLabels=c9d1d9&dates=c9d1d9" alt="streak"/>
-</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=ammar49-cyber&theme=transparent&hide_border=true)](https://github.com/ammar49-cyber)
 
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
+[![Ammar's GitHub activity](https://github-readme-activity-graph.vercel.app/graph?username=ammar49-cyber&theme=github-compact&hide_border=true)](https://github.com/ammar49-cyber)
 
-### 🌐 3D Contribution Globe 🌍
+</div>
 
-<p align="center">
-  <a href="https://github.com/ammar49-cyber/ammar49-cyber/blob/main/profile-3d-contrib/profile-night-view.svg">
-    <img src="https://raw.githubusercontent.com/ammar49-cyber/ammar49-cyber/main/profile-3d-contrib/profile-night-view.svg" alt="3d globe"/>
-  </a>
-</p>
+## Connect
 
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
+The best place to reach me is GitHub. If you're interested in one of my projects, have found a bug, or want to discuss a technical idea, feel free to open an issue or start a discussion in the relevant repository.
 
-### 💖 Sponsors 💖
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/sponsors/ammar49-cyber">
-    <img src="https://img.shields.io/badge/Sponsor%20Me-00f0ff?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" alt="Sponsor"/>
-  </a>
-</p>
+[![GitHub Profile](https://img.shields.io/badge/Visit_my_GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ammar49-cyber)
+[![SneppX](https://img.shields.io/badge/Explore_SneppX-635BFF?style=for-the-badge&logo=github)](https://github.com/SneppX)
 
-<!-- sponsors -->
-
-<!-- /sponsors -->
-
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
-
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
-
-### 💡 Quote of the Moment 🧠
-
-> "The best way to predict the future is to build it — one commit at a time." — *SNEPPX*
-
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
-
-### 🐍 Contribution Snake 🐲
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ammar49-cyber/ammar49-cyber/output/github-contribution-grid-snake.svg" alt="snake"/>
-  <img src="https://raw.githubusercontent.com/ammar49-cyber/ammar49-cyber/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="snake dark"/>
-</p>
-
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
-
-### ⭐ Star History — sneppx-alg 🌟
-
-<p align="center">
-  <a href="https://star-history.com/#ammar49-cyber/sneppx-alg&Date">
-    <img src="https://api.star-history.com/svg?repos=ammar49-cyber/sneppx-alg&type=Date" alt="star history" width="600"/>
-  </a>
-</p>
-
-![neon](https://capsule-render.vercel.app/api?type=rect&color=0:00f0ff,100:ff00e6&height=6&section=header&radius=0)
-
-### 🤝 Let's Connect 💬
-
-<p align="center">
-  <a href="https://github.com/ammar49-cyber"><img src="https://img.shields.io/badge/GitHub-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="GitHub"/></a>
-  <a href="https://github.com/ammar49-cyber?tab=followers"><img src="https://img.shields.io/badge/Follow-ff00e6?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Follow"/></a>
-  <a href="https://github.com/ammar49-cyber/sneppx-alg/stargazers"><img src="https://img.shields.io/badge/Star%20sneppx--alg-00f0ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" alt="Star"/></a>
-  <a href="https://github.com/sponsors/ammar49-cyber"><img src="https://img.shields.io/badge/Sponsor-ff00e6?style=for-the-badge&logo=githubsponsors&logoColor=white&labelColor=0d1117" alt="Sponsor"/></a>
-</p>
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff00e6,100:00f0ff&height=120&section=footer&animation=twinkling" alt="footer"/>
-  <br/>
-  <sub>⚡ Powered by SNEPPX · built with curiosity and caffeine ☕</sub>
+
+*Build with curiosity. Engineer with care. Improve continuously.*
+
 </div>
